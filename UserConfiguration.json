@@ -21,8 +21,8 @@
   "keymaps": [
     {
       "isDefault": true,
-      "abbreviation": "QWR",
-      "name": "QWERTY for PC",
+      "abbreviation": "SRS",
+      "name": "QWERTY",
       "description": "QWERTY is the mother of all layouts. This is the PC version.",
       "layers": [
         {
