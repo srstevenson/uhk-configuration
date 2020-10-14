@@ -339,9 +339,9 @@
                   "scancode": 5
                 },
                 {
-                  "keyActionType": "switchLayer",
-                  "layer": "mod",
-                  "switchLayerMode": "hold"
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "modifierMask": 1
                 },
                 {
                   "keyActionType": "keystroke",
@@ -648,9 +648,9 @@
                 },
                 null,
                 {
-                  "keyActionType": "switchLayer",
-                  "layer": "mod",
-                  "switchLayerMode": "hold"
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "modifierMask": 1
                 },
                 {
                   "keyActionType": "keystroke",
